@@ -1,0 +1,8 @@
+# Core dependencies for Nano GPT
+torch>=2.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+sentencepiece>=0.1.99
+
+# Jupyter notebook support
+ipykernel>=6.25.0
